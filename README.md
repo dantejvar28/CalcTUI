@@ -11,11 +11,6 @@ dependencies beyond libc.
 
 ## Install
 
-### Arch (AUR)
-
-```sh
-yay -S calctui     # or paru -S calctui
-```
 
 ### From source
 
