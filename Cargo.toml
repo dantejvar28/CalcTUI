@@ -1,0 +1,17 @@
+[package]
+name = "CalcTUI"
+version = "0.1.0"
+edition = "2024"
+description = "Calculadora de terminal con porcentaje, exponentes, raices y parentesis"
+license = "GPL-3.0-only"
+readme = "README.md"
+keywords = ["tui", "calculator", "ratatui", "crossterm", "cli"]
+categories = ["command-line-utilities"]
+
+[[bin]]
+name = "calctui"
+path = "src/main.rs"
+
+[dependencies]
+crossterm = "0.29.0"
+ratatui = "0.30.2"

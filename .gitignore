@@ -1,0 +1,7 @@
+/target
+/packaging/pkg/
+/packaging/src/
+/packaging/*.pkg.tar.*
+/packaging/*.BUILDINFO
+/packaging/*.PKGINFO
+/packaging/*.MTREE
